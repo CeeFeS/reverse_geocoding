@@ -4,10 +4,9 @@
 
 - install python & pip
 - clone repository
-- pip3 install -r requirements.txt
+- <code>pip3 install -r requirements.txt</code>
  
 
 ## start
 
-python3 reverse_geocoding_script.py
 <code>python3 reverse_geocoding_script.py</code>
