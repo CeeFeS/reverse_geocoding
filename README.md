@@ -1,13 +1,13 @@
 # reverse_geocoding
 
-##installation
+## installation
 
 - install python & pip
 - clone repository
 - pip3 install -r requirements.txt
 
 
-##start
+## start
 
 python3 reverse_geocoding_script.py
 <code>python3 reverse_geocoding_script.py</code>
