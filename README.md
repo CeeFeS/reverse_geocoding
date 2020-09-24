@@ -1,4 +1,4 @@
-# reverse_geocoding_from_UTM_to_longlat
+# reverse geocoding from UTM to longlat
 
 ## installation
 
