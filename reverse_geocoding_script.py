@@ -4,7 +4,7 @@ import getpass
 # import only system from os
 from os import system, name
 
-# define our clear function
+# source(https://www.geeksforgeeks.org/clear-screen-python/)
 def clear():
     # for windows
     if name == 'nt':
